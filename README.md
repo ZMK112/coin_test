@@ -14,7 +14,7 @@
 
 - **log/**: Directory for log files.
 
-- **script/**: Custom scripts for the project.
+- **script/**: Create database table sql.
 
 - src/
 
